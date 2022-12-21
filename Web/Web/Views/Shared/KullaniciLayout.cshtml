@@ -45,79 +45,9 @@
 
 	<!-- navigation -->
 	<header class="navigation">
-		<div class="header-top is-hidden-mobile">
-			<div class="container">
-				<div class="columns is-justify-content-space-between is-align-items-center">
-					<div class="column is-9">
-						<div class="header-top-info">
-							<a href="tel:+23-345-67890"><i class="fa fa-phone mr-2"></i><span>+23-345-67890</span></a>
-							<a href="mailto:support@gmail.com"><i class="fa fa-envelope mr-2"></i><span>support@gmail.com</span></a>
-							<a href="themefisher.com"><i class="fa fa-globe mr-2"></i>Themefisher.com</a>
-						</div>
-					</div>
-					<div class="column is-3">
-						<div class="header-top-socials has-text-centered has-text-right-tablet">
-							<a href="https://www.facebook.com/themefisher" target="_blank"><i class="ti-facebook"></i></a>
-							<a href="https://twitter.com/themefisher" target="_blank"><i class="ti-twitter"></i></a>
-							<a href="https://github.com/themefisher/" target="_blank"><i class="ti-github"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<nav id="navbar" class="navbar main-nav">
-			<div class="container">
-				<div class="navbar-brand ml-0">
-					<a class="navbar-item" href="index.html">
-						<!-- <img src="images/logo/logo.png" alt="logo"> -->
-						<h2 class="has-text-white" style="font-size:2rem">Enov.</h2>
-					</a>
-					<button role="button" class="navbar-burger burger" data-hidden="true" data-target="navigation">
-						<span aria-hidden="true"></span>
-						<span aria-hidden="true"></span>
-						<span aria-hidden="true"></span>
-					</button>
-				</div>
-
-				<div class="navbar-menu mr-0" id="navigation">
-					<ul class="navbar-end">
-						<li class="navbar-item">
-							<a class="navbar-link is-arrowless" href="index.html">Home</a>
-						</li>
-
-						<li class="navbar-item">
-							<a class="navbar-link is-arrowless" href="enov-bulma-main/theme/about.html">About</a>
-						</li>
-
-						<li class="navbar-item">
-							<a class="navbar-link is-arrowless" href="service.html">Service</a>
-						</li>
-
-						<li class="navbar-item">
-							<a class="navbar-link is-arrowless" href="project.html">Portfolio</a>
-						</li>
-
-						<li class="navbar-item has-dropdown is-hoverable">
-							<a class="navbar-link is-arrowless">Blog +</a>
-							<div class="navbar-dropdown">
-								<a class="navbar-item" href="blog-grid.html">Blog Grid</a>
-								<a class="navbar-item" href="blog-sidebar.html">Blog with Sidebar</a>
-								<a class="navbar-item" href="blog-single.html">Blog Single</a>
-							</div>
-						</li>
-
-						<li class="navbar-item">
-							<a class="navbar-link is-arrowless" href="contact.html">Contact</a>
-						</li>
-						<li class="navbar-item">
-							<a class="navbar-link is-arrowless quote-btn bg-primary rounded-btn letter-spacing is-uppercase" href="#">
-								Get a free Quote <i class="ti-angle-right"></i>
-							</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</nav>
+		@await Html.PartialAsync("Partial2")
+		@await Html.PartialAsync("Partial1")
+		
 	</header>
 	<!-- nav part end -->
 	<section class="page-title bg-1">
@@ -137,142 +67,10 @@
 			</div>
 		</div>
 	</section>
-	<section class="section blog-wrap">
-		<div class="container">
-			<div class="columns is-multiline">
-				<div class="column is-6-desktop is-6-tablet">
-					<div class="blog-item has-text-centered mb-3 ">
-						<img src="images/blog/1.jpg" alt="" class=" mb-4 rounded">
-						<span class="letter-spacing text-color text-sm is-uppercase">Creativity</span>
-						<h3 class="mb-2"><a href="blog-single.html">Improve design with typography?</a></h3>
-						<div class="blog-item-meta ">
-							<span class="is-uppercase text-sm mr-3 letter-spacing">by themefisher</span>
-							<span class="is-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i> January 28,2019</span>
-						</div>
-						<p class="mt-3 mb-4">Ipsa quasi corporis impedit dicta ipsam libero eum fuga nemo qui magnam! Et molestiae hic alias, laborum cumque saepe error fugiat. Cupiditate!</p>
-						<a href="blog-single.html" class="btn btn-main">Read More</a>
-					</div>
-				</div>
-				<div class="column is-6-desktop is-6-tablet">
-					<div class="blog-item has-text-centered mb-3">
-						<img src="images/blog/2.jpg" alt="" class=" mb-4 rounded">
-						<span class="letter-spacing text-color text-sm is-uppercase">Makreting</span>
-						<h3 class="mb-2"><a href="blog-single.html">Marketing strategy your should know</a></h3>
-						<div class="blog-item-meta ">
-							<span class="is-uppercase text-sm mr-3 letter-spacing">by themefisher</span>
-							<span class="is-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i> January 28,2019</span>
-						</div>
-						<p class="mt-3 mb-4">Ipsa quasi corporis impedit dicta ipsam libero eum fuga nemo qui magnam! Et molestiae hic alias, laborum cumque saepe error fugiat. Cupiditate!</p>
-						<a href="blog-single.html" class="btn btn-main">Read More</a>
-					</div>
-				</div>
-				<div class="column is-6-desktop is-6-tablet">
-					<div class="blog-item has-text-centered mb-3">
-						<img src="images/blog/3.jpg" alt="" class=" mb-4 rounded">
-						<span class="letter-spacing text-color text-sm is-uppercase">skill</span>
-						<h3 class="mb-2"><a href="blog-single.html">Skill to grow business rapidly</a></h3>
-						<div class="blog-item-meta ">
-							<span class="is-uppercase text-sm mr-3 letter-spacing">by themefisher</span>
-							<span class="is-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i> January 28,2019</span>
-						</div>
-						<p class="mt-3 mb-4">Ipsa quasi corporis impedit dicta ipsam libero eum fuga nemo qui magnam! Et molestiae hic alias, laborum cumque saepe error fugiat. Cupiditate!</p>
-						<a href="blog-single.html" class="btn btn-main">Read More</a>
-					</div>
-				</div>
-				<div class="column is-6-desktop is-6-tablet">
-					<div class="blog-item has-text-centered mb-3">
-						<img src="images/blog/4.jpg" alt="" class=" mb-4 rounded">
-						<span class="letter-spacing text-color text-sm is-uppercase">Creativity</span>
-						<h3 class="mb-2"><a href="blog-single.html">Research your competitor result</a></h3>
-						<div class="blog-item-meta ">
-							<span class="is-uppercase text-sm mr-3 letter-spacing">by themefisher</span>
-							<span class="is-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i> January 28,2019</span>
-						</div>
-						<p class="mt-3 mb-4">Ipsa quasi corporis impedit dicta ipsam libero eum fuga nemo qui magnam! Et molestiae hic alias, laborum cumque saepe error fugiat. Cupiditate!</p>
-						<a href="blog-single.html" class="btn btn-main">Read More</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="columns mt-5 is-justify-content-center">
-				<div class="column is-8-widescreen has-text-centered">
-					<nav class="post-navigation">
-						<a class="current" href="#">1</a>
-						<a href="#">2</a>
-						<a href="#">3</a>
-						<a href="#">4</a>
-						<a href="#">5</a>
-						<a href="#"><i class="ti-angle-right"></i></a>
-					</nav>
-				</div>
-			</div>
-		</div>
-	</section>
+	@RenderBody();
 
 	<!-- footer Start -->
-	<footer class="footer section">
-		<div class="container">
-			<div class="columns is-multiline is-justify-content-center">
-				<div class="column is-4-desktop is-5-tablet">
-					<div class="widget mb-0">
-						<div class="logo mb-4">
-							<h2 class="has-text-white" style="font-size:2rem">Enov.</h2>
-						</div>
-						<a href="mailto:support@themefisher.com" class="has-text-white">support@themefisher.com</a>
-						<p class="mt-4 mb-3">290 Maryam Springs 260, Courbevoie, <br> Paris, France</p>
-						<a href="tel:+23-456-6588"><span class="has-text-white h4">+23-456-6588</span></a>
-					</div>
-				</div>
-
-				<div class="column is-2-desktop is-5-tablet">
-					<div class="widget has-text-white mb-0">
-						<h4 class="text-capitalize mb-4 has-text-white">Company</h4>
-
-						<ul class="list-unstyled footer-menu lh-35">
-							<li><a href="#">Terms & Conditions</a></li>
-							<li><a href="#">Privacy Policy</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">FAQ</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="column is-2-desktop is-5-tablet">
-					<div class="widget mb-0">
-						<h4 class="text-capitalize mb-4 has-text-white">Quick Links</h4>
-
-						<ul class="list-unstyled footer-menu lh-35">
-							<li><a href="#">About</a></li>
-							<li><a href="#">Services</a></li>
-							<li><a href="#">Team</a></li>
-							<li><a href="#">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="column is-2-desktop is-5-tablet">
-					<div class="widget mb-0">
-						<h4 class="text-capitalize mb-4 has-text-white">Follow us</h4>
-						<ul class="list-unstyled footer-socials">
-							<li><a href="https://www.facebook.com/themefisher"><i class="ti-facebook mr-2 text-muted"></i>facebook</a></li>
-							<li><a href="https://twitter.com/themefisher"><i class="ti-twitter mr-2 text-muted"></i>Twitter</a></li>
-							<li><a href="https://github.com/themefisher/"><i class="ti-github mr-2 text-muted"></i>Github</a></li>
-							<li><a href="https://dribbble.com/themefisher/"><i class="ti-dribbble mr-2 text-muted"></i>Dribble</a></li>
-						</ul>
-
-					</div>
-				</div>
-			</div>
-
-			<div class="footer-btm pt-4 pb-3">
-				<div class="columns is-justify-content-center">
-					<div class="column has-text-centered">
-						<div class="copyright">
-							<p>&copy; Copyright 2020 Design &amp; Developed by <a href="https://themefisher.com/" target="_blank" class=" has-text-white">Themefisher</a></p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
+	@await Html.PartialAsync("Partial3")
 
 	<!--
 	Essential Scripts
@@ -300,4 +98,4 @@
 
 </body>
 </html>
-@RenderBody()
+
