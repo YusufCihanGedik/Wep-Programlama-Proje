@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewData["Title"] = "KullaniciLayout";
+}
+
+<!doctype html>
+
+<!--
+ // WEBSITE: https://themefisher.com
+ // TWITTER: https://twitter.com/themefisher
+ // FACEBOOK: https://www.facebook.com/themefisher
+ // GITHUB: https://github.com/themefisher/
+-->
+
+<html lang="en">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="sulfur,business,company,agency,multipurpose,modern,bootstrap4">
+
+	<meta name="author" content="themefisher.com">
+
+	<title>Enov| Html5 Business template</title>
+
+	<!-- bootstrap.min css -->
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/bulma/bulma.min.css">
+	<!-- Icon Font Css -->
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/themify/css/themify-icons.css">
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/fontawesome/css/all.css">
+	<!-- AOS css -->
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/animate-css/animate.css">
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/aos/aos.css">
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/magnific-popup/dist/magnific-popup.css">
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/modal-video/modal-video.min.css">
+	<!-- Owl Carousel CSS -->
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/slick-carousel/slick/slick.css">
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/plugins/slick-carousel/slick/slick-theme.css">
+
+	<!-- Main Stylesheet -->
+	<link rel="stylesheet" href="~/enov-bulma-main/theme/css/style.css">
+
+</head>
+<body>
+
+	<!-- navigation -->
+	<header class="navigation">
+		@await Html.PartialAsync("Partial2")
+		@await Html.PartialAsync("Partial1")
+		
+	</header>
+	<!-- nav part end -->
+	<section class="page-title bg-1">
+		<div class="container">
+			<div class="columns">
+				<div class="column is-12">
+					<div class="has-text-centered">
+						<!-- <p>Our blog</p> -->
+						<h1 class="text-capitalize mb-4 text-lg">Blog articles</h1>
+						<!-- <ul class="list-inline">
+						   <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
+						   <li class="list-inline-item"><span class="text-white">/</span></li>
+						   <li class="list-inline-item"><a href="#" class="text-white-50">Our blog</a></li>
+						</ul> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	@RenderBody();
+
+	<!-- footer Start -->
+	@await Html.PartialAsync("Partial3")
+
+	<!--
+	Essential Scripts
+	=====================================-->
+	<!-- Main jQuery -->
+	<script src="~/enov-bulma-main/themeplugins/jquery/jquery.js"></script>
+	<script src="~/enov-bulma-main/themejs/contact.js"></script>
+	<!--  Magnific Popup-->
+	<script src="~/enov-bulma-main/themeplugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+	<!-- Slick Slider -->
+	<script src="~/enov-bulma-main/themeplugins/slick-carousel/slick/slick.min.js"></script>
+	<!-- Counterup -->
+	<script src="~/enov-bulma-main/themeplugins/counterup/jquery.waypoints.min.js"></script>
+	<script src="~/enov-bulma-main/themeplugins/counterup/jquery.counterup.min.js"></script>
+	<script src="~/enov-bulma-main/themeplugins/shuffle/shuffle.min.js"></script>
+	<script src="~/enov-bulma-main/themeplugins/aos/aos.js"></script>
+	<script src="~/enov-bulma-main/themeplugins/animate-css/wow.min.js"></script>
+	<script src="~/enov-bulma-main/themeplugins/modal-video/jquery-modal-video.min.js"></script>
+
+	<!-- Google Map -->
+	<script src="~/enov-bulma-main/themeplugins/google-map/map.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>
+
+	<script src="~/enov-bulma-main/themejs/script.js"></script>
+
+</body>
+</html>
+

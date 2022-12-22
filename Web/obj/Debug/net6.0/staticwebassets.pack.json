@@ -1,0 +1,1373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main.zip",
+      "PackagePath": "staticwebassets\\enov-bulma-main.zip"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\.editorconfig",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\.gitignore",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\.jshintrc",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\LICENSE",
+      "PackagePath": "staticwebassets\\enov-bulma-main"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\README.md",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\gulpfile.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\netlify.toml",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\netlify.toml"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\package.json",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\about.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\blog-grid.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\blog-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\blog-sidebar.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\blog-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\blog-single.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\contact.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\home\\js\\custom.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\home\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\about-modern-img-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\about-modern-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\home-7.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\home-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\home-8.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\home-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\key-vision1.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\key-vision1.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\key-vision2.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\key-vision2.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\key-vision3.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\key-vision3.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\key-vision4.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\key-vision4.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\about\\key-vision5.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\about\\key-vision5.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\bg\\about-modern-img-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\bg\\about-modern-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\bg\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\bg\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\bg\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\bg\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\bg\\contact-bg-min-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\bg\\contact-bg-min-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\bg\\home-8.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\bg\\home-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\bg\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\bg\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\abou-us.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\abou-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\bt-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\bt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\bt-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\bt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\bt-3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\bt-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\grid-post-2-min.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\grid-post-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\grid-post-3-min.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\grid-post-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\img.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\test1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\test1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\blog\\test2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\blog\\test2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\logo.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\team\\test-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\team\\test-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\images\\team\\test-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\images\\team\\test-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\index.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\js\\contact.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\js\\script.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\mail.php",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\about.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\about.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\blog-posts.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\blog-posts.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\call-to-action.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\call-to-action.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\clinets-logo.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\clinets-logo.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\counter-2.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\counter-2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\counter.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\counter.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\cta-2.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\cta-2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\feature.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\feature.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\footer.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\footer.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\intro-2.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\intro-2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\latest-blog.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\latest-blog.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\navigation.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\navigation.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\page-title.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\page-title.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\portfolio.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\portfolio.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\post-sidebar.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\post-sidebar.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\pricing-2.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\pricing-2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\pricing.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\pricing.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\service-2.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\service-2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\service.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\service.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\single-blog.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\single-blog.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\slider.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\slider.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\team.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\team.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\testimonial-2.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\testimonial-2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\blocks\\testimonial.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\blocks\\testimonial.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\footer.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\footer.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\partials\\header.htm",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\partials\\header.htm"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\animate-css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\animate-css\\wow.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\animate-css\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\bulma\\bulma.min.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\bulma\\bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\counterup\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\counterup\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\google-map\\map.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\google-map\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\magnific-popup\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\magnific-popup\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\modal-video\\jquery-modal-video.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\modal-video\\jquery-modal-video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\modal-video\\modal-video.min.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\modal-video\\modal-video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\modal-video\\modal-video.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\modal-video\\modal-video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\shuffle\\shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\themify\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\themify\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\plugins\\themify\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\pricing.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\project.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\project.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\_media-query.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\_media-query.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_about.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_backgrounds.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_blog.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_contact.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_counter.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_counter.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_cta.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_cta.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_footer.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_intro.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_intro.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_navigation.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_portfolio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_pricing.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_review.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_service.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_single-post.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_single-post.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_slider.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\scss\\templates\\_team.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\scss\\templates\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\source\\service.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\source\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\about.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\blog-grid.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\blog-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\blog-sidebar.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\blog-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\blog-single.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\contact.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\about-modern-img-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\about-modern-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\home-7.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\home-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\home-8.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\home-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\key-vision1.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\key-vision1.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\key-vision2.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\key-vision2.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\key-vision3.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\key-vision3.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\key-vision4.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\key-vision4.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\about\\key-vision5.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\about\\key-vision5.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\bg\\about-modern-img-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\bg\\about-modern-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\bg\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\bg\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\bg\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\bg\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\bg\\contact-bg-min-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\bg\\contact-bg-min-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\bg\\home-8.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\bg\\home-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\bg\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\bg\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\abou-us.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\abou-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\bt-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\bt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\bt-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\bt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\bt-3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\bt-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\grid-post-2-min.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\grid-post-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\grid-post-3-min.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\grid-post-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\img.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\test1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\test1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\blog\\test2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\blog\\test2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\logo.png",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\team\\test-1.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\team\\test-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\images\\team\\test-2.jpg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\images\\team\\test-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\index.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\js\\contact.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\mail.php",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\mail.php"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\animate-css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\animate-css\\wow.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\animate-css\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\bulma\\bulma.min.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\bulma\\bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\counterup\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\counterup\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\google-map\\map.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\google-map\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\magnific-popup\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\magnific-popup\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\magnific-popup\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\modal-video\\jquery-modal-video.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\modal-video\\jquery-modal-video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\modal-video\\modal-video.min.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\modal-video\\modal-video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\modal-video\\modal-video.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\modal-video\\modal-video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\shuffle\\shuffle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\themify\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\themify\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\plugins\\themify\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\pricing.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\project.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\project.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\service.html",
+      "PackagePath": "staticwebassets\\enov-bulma-main\\theme\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
