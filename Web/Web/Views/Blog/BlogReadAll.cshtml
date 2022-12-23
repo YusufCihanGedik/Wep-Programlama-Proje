@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<EntityLayer.Concrete.Blog>
 @{
-    ViewData["Title"] = "BlogDetails";
-    Layout = "~/Views/Shared/KullaniciLayout.cshtml";
+	ViewData["Title"] = "BlogDetails";
+	Layout = "~/Views/Shared/KullaniciLayout.cshtml";
 }
 
 
@@ -17,219 +17,376 @@
 
 <body>
 
-    <!-- navigation -->
+	<!-- navigation -->
+	<!-- nav part end -->
+	@*<section class="banner-bottom">
+	<!--/blog-->
+	<div class="container">
+	<div class="row">
+	<!--left-->
+	<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+	@foreach(var item in Model){
+	<div class="blog-grid-top">
+	<div class="b-grid-top">
+	<div class="blog_info_left_grid">
+	<a href="single.html">
+	<img src="images/b1.jpg" class="img-fluid" alt="">
+	</a>
+	</div>
+	<div class="blog-info-middle">
+	<ul>
+	<li>
+	<a href="#">
+	<i class="far fa-calendar-alt"></i> FEB 15,2018
+	</a>
+	</li>
+	<li class="mx-2">
+	<a href="#">
+	<i class="far fa-thumbs-up"></i> 201 Likes
+	</a>
+	</li>
+	<li>
+	<a href="#">
+	<i class="far fa-comment"></i> 15 Comments
+	</a>
+	</li>
 
-    <!-- nav part end -->
-	<section class="banner-bottom">
-		<!--/blog-->
+	</ul>
+	</div>
+	</div>
+
+	<h3>
+	<a href="single.html">@item.BlogTitle </a>
+	</h3>
+	<p>
+	Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore et dolore magna
+	aliqua uta enim ad minim ven iam quis nostrud exercitation ullamco labor nisi ut aliquip exea commodo consequat duis
+	aute irudre dolor in elit sed uta labore dolore reprehender
+	</p>
+	<a href="single.html" class="btn btn-primary read-m">Read More</a>
+	</div>
+	}
+	<div class="comment-top">
+	<h4>Comments</h4>
+	<div class="media">
+	<img src="images/t1.jpg" alt="" class="img-fluid" />
+	<div class="media-body">
+	<h5 class="mt-0">Joseph Goh</h5>
+	<p>
+	Lorem Ipsum convallis diam consequat magna vulputate malesuada. id dignissim sapien velit id felis ac cursus eros.
+	Cras a ornare elit.
+	</p>
+
+	<div class="media mt-3">
+	<a class="d-flex pr-3" href="#">
+	<img src="images/t2.jpg" alt="" class="img-fluid" />
+	</a>
+	<div class="media-body">
+	<h5 class="mt-0">Richard Spark</h5>
+	<p>
+	Lorem Ipsum convallis diam consequat magna vulputate malesuada. id dignissim sapien velit id felis ac cursus eros.
+	Cras a ornare elit.
+	</p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="comment-top">
+	<h4>Leave a Comment</h4>
+	<div class="comment-bottom">
+	<form action="#" method="post">
+	<input class="form-control" type="text" name="Name" placeholder="Name" required="">
+	<input class="form-control" type="email" name="Email" placeholder="Email" required="">
+
+	<input class="form-control" type="text" name="Subject" placeholder="Subject" required="">
+
+	<textarea class="form-control" name="Message" placeholder="Message..." required=""></textarea>
+	<button type="submit" class="btn btn-primary submit">Submit</button>
+	</form>
+	</div>
+	</div>
+	</div>
+
+	<!--//left-->
+	<!--right-->
+	<aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
+	<div class="right-blog-info text-left">
+	<div class="tech-btm">
+	<img src="images/banner1.jpg" class="img-fluid" alt="">
+	</div>
+	<div class="tech-btm">
+	<h4>Sign up to our newsletter</h4>
+	<p>Pellentesque dui, non felis. Maecenas male </p>
+	<form action="#" method="post">
+	<input type="email" placeholder="Email" required="">
+	<input type="submit" value="Subscribe">
+	</form>
+
+	</div>
+	<div class="tech-btm">
+	<h4>Categories</h4>
+	<ul class="list-group single">
+	<li class="list-group-item d-flex justify-content-between align-items-center">
+	Cras justo odio
+	<span class="badge badge-primary badge-pill">14</span>
+	</li>
+	<li class="list-group-item d-flex justify-content-between align-items-center">
+	Dapibus ac facilisis in
+	<span class="badge badge-primary badge-pill">2</span>
+	</li>
+	<li class="list-group-item d-flex justify-content-between align-items-center">
+	Morbi leo risus
+	<span class="badge badge-primary badge-pill">1</span>
+	</li>
+	</ul>
+	</div>
+	<div class="tech-btm">
+	<h4>Top stories of the week</h4>
+
+	<div class="blog-grids row mb-3">
+	<div class="col-md-5 blog-grid-left">
+	<a href="single.html">
+	<img src="images/1.jpg" class="img-fluid" alt="">
+	</a>
+	</div>
+	<div class="col-md-7 blog-grid-right">
+
+	<h5>
+	<a href="single.html">Pellentesque dui, non felis. Maecenas male non felis </a>
+	</h5>
+	<div class="sub-meta">
+	<span>
+	<i class="far fa-clock"></i> 20 Jan, 2018
+	</span>
+	</div>
+	</div>
+
+	</div>
+	<div class="blog-grids row mb-3">
+	<div class="col-md-5 blog-grid-left">
+	<a href="single.html">
+	<img src="images/6.jpg" class="img-fluid" alt="">
+	</a>
+	</div>
+	<div class="col-md-7 blog-grid-right">
+	<h5>
+	<a href="single.html">Pellentesque dui, non felis. Maecenas male non felis </a>
+	</h5>
+	<div class="sub-meta">
+	<span>
+	<i class="far fa-clock"></i> 20 Feb, 2018
+	</span>
+	</div>
+	</div>
+
+	</div>
+	</div>
+	<div class="single-gd my-5 tech-btm">
+	<h4>Our Progress</h4>
+	<div class="progress">
+	<div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0"
+	aria-valuemax="100"></div>
+	</div>
+	<div class="progress">
+	<div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0"
+	aria-valuemax="100"></div>
+	</div>
+	<div class="progress">
+	<div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+	aria-valuemax="100"></div>
+	</div>
+	<div class="progress">
+	<div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+	aria-valuemax="100"></div>
+	</div>
+	<div class="progress">
+	<div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0"
+	aria-valuemax="100"></div>
+	</div>
+	</div>
+	<div class="single-gd tech-btm">
+	<h4>Recent Post</h4>
+	<div class="blog-grids">
+	<div class="blog-grid-left">
+	<a href="single.html">
+	<img src="images/b1.jpg" class="img-fluid" alt="">
+	</a>
+	</div>
+	<div class="blog-grid-right">
+
+	<h5>
+	<a href="single.html">Pellentesque dui, non felis. Maecenas male</a>
+	</h5>
+	</div>
+	<div class="clearfix"> </div>
+	</div>
+	</div> 
+	</div>
+
+	</aside>
+	<!--//right-->
+	</div>
+	</div>
+	</section>*@
+	<section class="section blog-wrap">
 		<div class="container">
-			<div class="row">
-				<!--left-->
-				<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
-					@foreach(var item in Model){
-					<div class="blog-grid-top">
-						<div class="b-grid-top">
-							<div class="blog_info_left_grid">
-								<a href="single.html">
-									<img src="images/b1.jpg" class="img-fluid" alt="">
-								</a>
-							</div>
-							<div class="blog-info-middle">
-								<ul>
-									<li>
-										<a href="#">
-											<i class="far fa-calendar-alt"></i> FEB 15,2018
-										</a>
-									</li>
-									<li class="mx-2">
-										<a href="#">
-											<i class="far fa-thumbs-up"></i> 201 Likes
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<i class="far fa-comment"></i> 15 Comments
-										</a>
-									</li>
-
-								</ul>
+			<div class="columns is-desktop">
+				<div class="column is-8-desktop">
+					<div class="columns is-multiline">
+						@foreach(var item in Model){
+						<div class="column is-12">
+							<div class="single-blog-item ">
+								<div class="has-text-centered">
+									<span class="text-color text-sm letter-spacing is-uppercase mr-3">Creativity</span>
+								</div>
+								<h2 class="mt-1 mb-4 has-text-centered"><a href="blog-single.html">@item.BlogTitle</a></h2>
+								<div class="blog-item-meta has-text-centered mb-5">
+									<span class="is-uppercase text-sm mr-3 letter-spacing">by themefisher</span>
+										<span class="is-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i>  @(((DateTime)item.BlogCreateDate).ToString("dd-MMM-yyyy"))</span>
+								</div>
+								<img src="~/enov-bulma-main/source/images/blog/2.jpg" alt="" class=" rounded">
+								<p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.</p>
+								<h3 class="quote">A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.</h3>
+								<p class="h4 mb-4 has-text-weight-normal text-black">The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and automatically.</p>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.</p>
 							</div>
 						</div>
-
-						<h3>
-							<a href="single.html">@item.BlogTitle </a>
-						</h3>
-						<p>
-							Lorem ipsum dolor sit amet consectetur adipisicing elit sedc dnmo eiusmod tempor incididunt ut labore et dolore magna
-							aliqua uta enim ad minim ven iam quis nostrud exercitation ullamco labor nisi ut aliquip exea commodo consequat duis
-							aute irudre dolor in elit sed uta labore dolore reprehender
-						</p>
-						<a href="single.html" class="btn btn-primary read-m">Read More</a>
-					</div>
-					}
-					<div class="comment-top">
-						<h4>Comments</h4>
-						<div class="media">
-							<img src="images/t1.jpg" alt="" class="img-fluid" />
-							<div class="media-body">
-								<h5 class="mt-0">Joseph Goh</h5>
-								<p>
-									Lorem Ipsum convallis diam consequat magna vulputate malesuada. id dignissim sapien velit id felis ac cursus eros.
-									Cras a ornare elit.
-								</p>
-
-								<div class="media mt-3">
-									<a class="d-flex pr-3" href="#">
-										<img src="images/t2.jpg" alt="" class="img-fluid" />
-									</a>
-									<div class="media-body">
-										<h5 class="mt-0">Richard Spark</h5>
-										<p>
-											Lorem Ipsum convallis diam consequat magna vulputate malesuada. id dignissim sapien velit id felis ac cursus eros.
-											Cras a ornare elit.
-										</p>
+						}
+						<div class="column is-12 mb-3 has-text-centered">
+							<ul class="list-inline tag-option">
+								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" rel="tag">Advancher</a></li>
+								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" rel="tag">Landscape</a></li>
+								<li class="list-inline-item"><a href="#" rel="tag">Travel</a></li>
+							</ul>
+						</div>
+						<div class="column is-12 mb-5 has-text-centered">
+							<ul class="list-inline share">
+								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" target="_blank" class="fb"><i class="fab fa-facebook-f mr-2" aria-hidden="true"></i>Facebook</a></li>
+								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" target="_blank" class="twt"><i class="fab fa-twitter mr-2" aria-hidden="true"></i>Twitter</a></li>
+								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" target="_blank" class="pint"><i class="fab fa-pinterest-p mr-2" aria-hidden="true"></i>pinterest</a></li>
+								<li class="list-inline-item"><a href="#" target="_blank" class="link"><i class="fab fa-linkedin mr-2" aria-hidden="true"></i>Linkedin</a></li>
+							</ul>
+						</div>
+						<div class="column is-12 mb-5">
+							<div class="posts-nav bg-gray is-justify-content-space-between">
+								<a class="post-prev is-align-items-center" href="#">
+									<div class="posts-prev-item">
+										<p class="is-uppercase letter-spacing text-sm mb-0">Previous Post</p>
+										<h5>
+											Donec consectetuer ligula
+										</h5>
 									</div>
+								</a>
+								<div class="border"></div>
+								<a class="posts-next" href="#">
+									<div class="posts-next-item">
+										<p class="has-text-right-desktop is-block is-uppercase letter-spacing text-sm mb-0">Next Post</p>
+										<h5>
+											Ut aliquam sollicitudin leo
+										</h5>
+									</div>
+								</a>
+							</div>
+						</div>
+						@await Html.PartialAsync("~/Views/Comment/CommentByBlog.cshtml")
+						@await Html.PartialAsync("~/Views/Comment/PartialAddComment.cshtml")
+					</div>
+				</div>
+				<div class="column is-4-desktop">
+					<div class="sidebar-wrap">
+						<div class="sidebar-widget search mb-6">
+							<input type="text" class="input" placeholder="search">
+							<a href="#" class="btn btn-main is-block has-text-centered mt-2">search</a>
+						</div>
+						<div class="sidebar-widget mb-6 has-text-centered">
+							<img src="~/enov-bulma-main/source/images/blog/abou-us.png" alt="" class=" mx-auto">
+							<h4 class="mb-2 mt-4">Arther Conal</h4>
+							<ul class="list-inline author-socials mb-3">
+								<li class="list-inline-item mr-4">
+									<a href="#"><i class="fab fa-facebook-f text-muted"></i></a>
+								</li>
+								<li class="list-inline-item mr-4">
+									<a href="#"><i class="fab fa-twitter text-muted"></i></a>
+								</li>
+								<li class="list-inline-item mr-4">
+									<a href="#"><i class="fab fa-linkedin-in text-muted"></i></a>
+								</li>
+								<li class="list-inline-item mr-4">
+									<a href="#"><i class="fab fa-pinterest text-muted"></i></a>
+								</li>
+								<li class="list-inline-item mr-4">
+									<a href="#"><i class="fab fa-behance text-muted"></i></a>
+								</li>
+							</ul>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolore.</p>
+						</div>
+						<div class="sidebar-widget latest-post mb-6">
+							<h5 class="has-text-centered mb-4">Latest Posts</h5>
+							<div class="is-flex border-bottom py-3" style="border-color:#ddd">
+								<a href="#"><img class="rounded" src="~/enov-bulma-main/source/images/blog/bt-3.jpg" alt=""></a>
+								<div class="ml-5">
+									<h6 class="mb-1"><a href="#">Thoughtful living in los Angeles</a></h6>
+									<span class="text-sm text-muted">03 Mar 2018</span>
+								</div>
+							</div>
+							<div class="is-flex border-bottom py-3" style="border-color:#ddd">
+								<a href="#"><img class="rounded" src="~/enov-bulma-main/source/images/blog/bt-1.jpg" alt=""></a>
+								<div class="ml-5">
+									<h6 class="mb-1"><a href="#">Vivamus molestie gravida turpis.</a></h6>
+									<span class="text-sm text-muted">03 Mar 2018</span>
+								</div>
+							</div>
+							<div class="is-flex py-3">
+								<a href="#"><img class="rounded" src="~/enov-bulma-main/source/images/blog/bt-2.jpg" alt=""></a>
+								<div class="ml-5">
+									<h6 class="mb-1"><a href="#">Vivamus molestie gravida turpis.</a></h6>
+									<span class="text-sm text-muted">03 Mar 2018</span>
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="comment-top">
-						<h4>Leave a Comment</h4>
-						<div class="comment-bottom">
-							<form action="#" method="post">
-								<input class="form-control" type="text" name="Name" placeholder="Name" required="">
-								<input class="form-control" type="email" name="Email" placeholder="Email" required="">
-
-								<input class="form-control" type="text" name="Subject" placeholder="Subject" required="">
-
-								<textarea class="form-control" name="Message" placeholder="Message..." required=""></textarea>
-								<button type="submit" class="btn btn-primary submit">Submit</button>
-							</form>
-						</div>
-					</div>
-				</div>
-
-				<!--//left-->
-				<!--right-->
-				<aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
-					<div class="right-blog-info text-left">
-						<div class="tech-btm">
-							<img src="images/banner1.jpg" class="img-fluid" alt="">
-						</div>
-						<div class="tech-btm">
-							<h4>Sign up to our newsletter</h4>
-							<p>Pellentesque dui, non felis. Maecenas male </p>
-							<form action="#" method="post">
-								<input type="email" placeholder="Email" required="">
-								<input type="submit" value="Subscribe">
-							</form>
-
-						</div>
-						<div class="tech-btm">
-							<h4>Categories</h4>
-							<ul class="list-group single">
-								<li class="list-group-item d-flex justify-content-between align-items-center">
-									Cras justo odio
-									<span class="badge badge-primary badge-pill">14</span>
+						<div class="sidebar-widget category mb-4">
+							<h5 class="mb-4 has-text-centered">Catgeory</h5>
+							<ul class="list-group">
+								<li>
+									<a href="#!" class="is-flex is-justify-content-space-between is-align-items-center">
+										Cras justo odio
+										<span class="count">14</span>
+									</a>
 								</li>
-								<li class="list-group-item d-flex justify-content-between align-items-center">
-									Dapibus ac facilisis in
-									<span class="badge badge-primary badge-pill">2</span>
+								<li>
+									<a href="#!" class="is-flex is-justify-content-space-between is-align-items-center">
+										Dapibus ac facilisis in
+										<span class="count">2</span>
+									</a>
 								</li>
-								<li class="list-group-item d-flex justify-content-between align-items-center">
-									Morbi leo risus
-									<span class="badge badge-primary badge-pill">1</span>
+								<li>
+									<a href="#!" class="is-flex is-justify-content-space-between is-align-items-center">
+										Morbi leo risus
+										<span class="count">1</span>
+									</a>
 								</li>
 							</ul>
 						</div>
-						<div class="tech-btm">
-							<h4>Top stories of the week</h4>
-
-							<div class="blog-grids row mb-3">
-								<div class="col-md-5 blog-grid-left">
-									<a href="single.html">
-										<img src="images/1.jpg" class="img-fluid" alt="">
-									</a>
-								</div>
-								<div class="col-md-7 blog-grid-right">
-
-									<h5>
-										<a href="single.html">Pellentesque dui, non felis. Maecenas male non felis </a>
-									</h5>
-									<div class="sub-meta">
-										<span>
-											<i class="far fa-clock"></i> 20 Jan, 2018
-										</span>
-									</div>
-								</div>
-
-							</div>
-							<div class="blog-grids row mb-3">
-								<div class="col-md-5 blog-grid-left">
-									<a href="single.html">
-										<img src="images/6.jpg" class="img-fluid" alt="">
-									</a>
-								</div>
-								<div class="col-md-7 blog-grid-right">
-									<h5>
-										<a href="single.html">Pellentesque dui, non felis. Maecenas male non felis </a>
-									</h5>
-									<div class="sub-meta">
-										<span>
-											<i class="far fa-clock"></i> 20 Feb, 2018
-										</span>
-									</div>
-								</div>
-
-							</div>
-						</div>
-						<div class="single-gd my-5 tech-btm">
-							<h4>Our Progress</h4>
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0"
-									 aria-valuemax="100"></div>
-							</div>
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0"
-									 aria-valuemax="100"></div>
-							</div>
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
-									 aria-valuemax="100"></div>
-							</div>
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-									 aria-valuemax="100"></div>
-							</div>
-							<div class="progress">
-								<div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0"
-									 aria-valuemax="100"></div>
-							</div>
-						</div>
-						<div class="single-gd tech-btm">
-							<h4>Recent Post</h4>
-							<div class="blog-grids">
-								<div class="blog-grid-left">
-									<a href="single.html">
-										<img src="images/b1.jpg" class="img-fluid" alt="">
-									</a>
-								</div>
-								<div class="blog-grid-right">
-
-									<h5>
-										<a href="single.html">Pellentesque dui, non felis. Maecenas male</a>
-									</h5>
-								</div>
-								<div class="clearfix"> </div>
+						<div class="sidebar-widget tags mb-3">
+							<h5 class="mb-4 has-text-centered w-100">Tags</h5>
+							<div>
+								<a href="#">Web</a>
+								<a href="#">agency</a>
+								<a href="#">company</a>
+								<a href="#">creative</a>
+								<a href="#">html</a>
+								<a href="#">Marketing</a>
+								<a href="#">Social Media</a>
+								<a href="#">Branding</a>
 							</div>
 						</div>
 					</div>
-
-				</aside>
-				<!--//right-->
+				</div>
 			</div>
 		</div>
 	</section>
+
 </body>
 </html>
 
