@@ -289,7 +289,8 @@
 								</a>
 							</div>
 						</div>
-						@await Html.PartialAsync("~/Views/Comment/CommentByBlog.cshtml")
+						@await Component.InvokeAsync("CommentListByBlog")
+						@*await Html.PartialAsync("~/Views/Comment/CommentByBlog.cshtml")*@
 						@await Html.PartialAsync("~/Views/Comment/PartialAddComment.cshtml")
 					</div>
 				</div>
