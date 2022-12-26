@@ -1,6 +1,25 @@
 ﻿@model IEnumerable<EntityLayer.Concrete.Comment>
-
-@foreach (var item in Model)
-{
- <p>@item.CommentUserName</p>
-}
+<h1>het het hey hey</h1>
+<div class="column is-12 mb-5">
+	<div class="comment-area p-5">
+		<h4 class="mb-4">Yorumlar</h4>
+		@foreach(var item in Model ){
+		<div class="media">
+			<a href="#"><img src="~/enov-bulma-main/source/images/blog/test1.jpg" alt="..." class="user-img"></a>
+			
+			<div class="ml-4">
+				<h5 class="mb-0">@item.CommentUserName</h5>
+					<span class="date-comm"> @item.CommentDate </span>
+				<div class="comment-meta is-pulled-right">
+					<a href="#"><i class="icofont-reply mr-2 text-muted"></i><i class="ti-back-right mr-2"></i>Reply</a>
+				</div>
+				<div class="comment-content mt-3">
+					<p1>@item.CommentContent</p1>
+				</div>
+				
+			</div>
+			
+		</div>
+		}
+	</div>
+</div>
