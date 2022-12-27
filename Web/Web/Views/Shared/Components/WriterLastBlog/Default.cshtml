@@ -1,0 +1,14 @@
+﻿@using EntityLayer.Concrete
+@model List<Blog>
+<div class="sidebar-widget latest-post mb-6">
+	<h5 class="has-text-centered mb-4">Latest Posts</h5>
+	@foreach(var item in Model ){
+	<div class="is-flex border-bottom py-3" style="border-color:#ddd">
+		<a href="#"><img class="rounded" src="@item.BlogImage" alt=""></a>
+		<div class="ml-5">
+			<h6 class="mb-1"><a href="#">@item.BlogTitle</a></h6>
+				<span class="text-sm text-muted"> @(((DateTime)item.BlogCreateDate).ToString("dd-MMM-yyyy"))</span>
+		</div>
+	</div>
+	}
+</div>
