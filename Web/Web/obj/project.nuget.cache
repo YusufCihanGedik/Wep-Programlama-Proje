@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RWvWWm2l+Jt7bYnKAmza+WNkuUmBCKiwcjPa0GP9XXIPYNfq245y8XGTHsSTcJmArpxPijMlFEOuCyMnkvbA0g==",
+  "dgSpecHash": "PE4sa15lfaywymzxTTlgYyy+qBpPUcnxprFZyzPCbnfwKvex7U/EHu6sbQXgFqtVSvCMwlo8TwuKT08tC6LCBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gedik\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\Gedik\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Gedik\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "C:\\Users\\Gedik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gedik\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Gedik\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

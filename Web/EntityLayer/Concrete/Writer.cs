@@ -20,6 +20,7 @@ namespace EntityLayer.Concrete
 
 
         public bool WriteStatus { get; set; }
+        public  List<Blog> Blogs { get; set; }
 
     }
 }

@@ -323,30 +323,7 @@
 							</ul>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolore.</p>
 						</div>
-						<div class="sidebar-widget latest-post mb-6">
-							<h5 class="has-text-centered mb-4">Latest Posts</h5>
-							<div class="is-flex border-bottom py-3" style="border-color:#ddd">
-								<a href="#"><img class="rounded" src="~/enov-bulma-main/source/images/blog/bt-3.jpg" alt=""></a>
-								<div class="ml-5">
-									<h6 class="mb-1"><a href="#">Thoughtful living in los Angeles</a></h6>
-									<span class="text-sm text-muted">03 Mar 2018</span>
-								</div>
-							</div>
-							<div class="is-flex border-bottom py-3" style="border-color:#ddd">
-								<a href="#"><img class="rounded" src="~/enov-bulma-main/source/images/blog/bt-1.jpg" alt=""></a>
-								<div class="ml-5">
-									<h6 class="mb-1"><a href="#">Vivamus molestie gravida turpis.</a></h6>
-									<span class="text-sm text-muted">03 Mar 2018</span>
-								</div>
-							</div>
-							<div class="is-flex py-3">
-								<a href="#"><img class="rounded" src="~/enov-bulma-main/source/images/blog/bt-2.jpg" alt=""></a>
-								<div class="ml-5">
-									<h6 class="mb-1"><a href="#">Vivamus molestie gravida turpis.</a></h6>
-									<span class="text-sm text-muted">03 Mar 2018</span>
-								</div>
-							</div>
-						</div>
+						@await Component.InvokeAsync("WriterLastBlog")
 						@await Component.InvokeAsync("CategoryList")
 						<div class="sidebar-widget tags mb-3">
 							<h5 class="mb-4 has-text-centered w-100">Tags</h5>

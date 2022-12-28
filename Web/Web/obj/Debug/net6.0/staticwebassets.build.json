@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bDEusWzB4QgTZHXGdUrzSc2uybGMObirbEVzhavtkgI=",
+  "Hash": "ru3hL1GP9KMn+VPopGkTQFs5c+38V1pnsgkCVZcSBGg=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -3840,6 +3840,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\enov-bulma-main\\theme\\js\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\Login.html",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "enov-bulma-main/theme/Login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\enov-bulma-main\\theme\\Login.html"
     },
     {
       "Identity": "C:\\Users\\Gedik\\source\\repos\\Web\\Web\\wwwroot\\enov-bulma-main\\theme\\mail.php",
