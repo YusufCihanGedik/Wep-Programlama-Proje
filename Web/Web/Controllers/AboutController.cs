@@ -1,16 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BusinessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
 
 namespace Web.Controllers
 {
-	public class AboutController : Controller
-	{
-		public IActionResult Index()
-		{
-			return View();
-		}
-		public PartialViewResult SocialMediaAbout()
-		{
-			return PartialView();
-		}
-	}
+    public class AboutController : Controller
+    {
+        AboutManager abm = new AboutManager(new EfAboutRepository());
+        public IActionResult Index()
+        {
+            var values = abm.GetList();
+            return View(values);
+        }
+        public PartialViewResult SocialMediaAbout()
+        {
+            
+            return PartialView();
+        }
+    }
 }

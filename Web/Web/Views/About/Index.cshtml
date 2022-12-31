@@ -1,62 +1,127 @@
-﻿
+﻿@using EntityLayer.Concrete
+@model List<About>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/KullaniciLayout.cshtml";
 }
+
+<!doctype html>
+
+<!--
+ // WEBSITE: https://themefisher.com
+ // TWITTER: https://twitter.com/themefisher
+ // FACEBOOK: https://www.facebook.com/themefisher
+ // GITHUB: https://github.com/themefisher/
+-->
 
 <html lang="en">
 
 <body>
 
     <!-- navigation -->
-
+ 
     <!-- nav part end -->
-
+   
     <!-- Section About Start -->
     <section class="section about-2 position-relative">
+        
         <div class="container">
             <div class="columns is-multiline is-justify-content-center">
                 <div class="column is-10-widescreen is-11-desktop has-text-centered">
-                    <h1>Daha büyük, daha cesur ve daha iyi dijital fikirler yaratıyoruz.</h1>
-                    <p class="mb-5 h5 mt-5 has-text-weight-normal">Yönetim Raporlaması Alanında Danışmanlık Hizmetleri Vererek Şirketlerin En Üst Seviyeye Ulaşmalarına Yardımcı Oluyoruz. İş Süreçlerini Optimize Ederek Kolaylaştırıyoruz.</p>
+                    <h1>We create digital ideas that are bigger, bolder, braver and better.</h1>
+                    <p class="mb-5 h5 mt-5 has-text-weight-normal">We provide consulting services in the area of IFRS and management reporting, helping companies to reach their highest level. We optimize business processes, making them easier.</p>
                 </div>
             </div>
+            @foreach (var item in Model)
+            {
             <div class="columns is-multiline is-justify-content-center">
-                <div class="column is-4-desktop is-6-tablet">
+                <div class="column is-4-desktop is-6-tablet"  data-aos-delay="600">
                     <img src="images/about/bg-1.jpg" alt="" class=" rounded">
                     <div class="about-info-item mt-4">
                         <h3 class="mb-3">Misyonumuz</h3>
-                        <p>Ülke çapında kişisel blog yazmını arttırmak Ve toplumla heran iletişim halinde olmak en büyük misyonumuz.</p>
+                        <p>@item.AboutDetails1</p>
                     </div>
                 </div>
                 <div class="column is-4-desktop is-6-tablet"  data-aos-delay="800">
                     <img src="images/about/about.jpg" alt="" class=" rounded">
                     <div class="about-info-item mt-4">
-                        <h3 class="mb-3">Vizyonumuz</h3>
-                        <p>Misyonumuz dahilinde kalemi güçlü yazarlar ile çalışmak temel blog yazarlığı eğtımını  topluma kazandırmak.</p>
+                        <h3 class="mb-3">Vission</h3>
+                        <p>@item.AboutDetails2</p>
                     </div>
                 </div>
                 <div class="column is-4-desktop is-12-tablet"  data-aos-delay="1000">
                     <img src="images/about/home-8.jpg" alt="" class=" rounded">
                     <div class="about-info-item mt-4">
-                        <h3 class="mb-3">Yaklaşımımız</h3>
-                        <p>Misyonumuz dahilinde kalemi güçlü yazarlar ile çalışmak temel blog yazarlığı eğtımını  topluma kazandırmak.</p>
+                        <h3 class="mb-3">Our Approach</h3>
+                            <p>@item.AboutDetails2</p>
                     </div>
+                </div>
+            </div>
+            }
+        </div>
+    </section>
+    <!-- section Counter Start -->
+  
+    <!-- section Counter End  -->
+    
+    <!-- Section Testimonial Start -->
+    @await Html.PartialAsync("~/Views/About/SocialMediaAbout.cshtml")
+    <!-- Section Testimonial End -->
+    <section class="section">
+        <div class="container">
+            <div class="columns is-gapless is-mobile is-multiline">
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision1.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision2.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision3.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision4.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision3.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision5.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision3.png" alt="" class=" w-100">
+                </div>
+                <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <img src="images/about/key-vision4.png" alt="" class=" w-100">
                 </div>
             </div>
         </div>
     </section>
-    <!-- section Counter Start -->
-   
-    <!-- section Counter End  -->
-    @await Html.PartialAsync("~/Views/About/SocialMediaAbout.cshtml")
-    <!-- Section Testimonial Start -->
-    
-    <!-- Section Testimonial End -->
-
     <!-- footer Start -->
 
+    <!--
+    Essential Scripts
+    =====================================-->
+    <!-- Main jQuery -->
+    <script src="plugins/jquery/jquery.js"></script>
+    <script src="js/contact.js"></script>
+    <!--  Magnific Popup-->
+    <script src="plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="plugins/slick-carousel/slick/slick.min.js"></script>
+    <!-- Counterup -->
+    <script src="plugins/counterup/jquery.waypoints.min.js"></script>
+    <script src="plugins/counterup/jquery.counterup.min.js"></script>
+    <script src="plugins/shuffle/shuffle.min.js"></script>
+    <script src="plugins/aos/aos.js"></script>
+    <script src="plugins/animate-css/wow.min.js"></script>
+    <script src="plugins/modal-video/jquery-modal-video.min.js"></script>
 
+    <!-- Google Map -->
+    <script src="plugins/google-map/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>
+
+    <script src="js/script.js"></script>
 
 </body>
 </html>
