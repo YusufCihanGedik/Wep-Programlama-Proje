@@ -7,6 +7,7 @@ namespace Web.Controllers
 {
 	public class CommentController : Controller
 	{
+
 		CommentManager cm = new CommentManager(new EfCommentRepository());
 		public IActionResult Index()
 		{
@@ -22,7 +23,7 @@ namespace Web.Controllers
 		{
 			c.CommentDate=DateTime.Parse(DateTime.Now.ToShortDateString());
 			c.CommentStatus = true;
-			c.BlogId = 7;
+			c.BlogId = 2006;
 			cm.CommentAdd(c);
 			return PartialView();
 		}

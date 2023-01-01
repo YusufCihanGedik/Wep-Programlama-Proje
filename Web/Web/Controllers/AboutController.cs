@@ -7,6 +7,7 @@ namespace Web.Controllers
 {
     public class AboutController : Controller
     {
+        WriterManager bm = new WriterManager(new EfWriterRepository());
         AboutManager abm = new AboutManager(new EfAboutRepository());
         public IActionResult Index()
         {
@@ -15,8 +16,8 @@ namespace Web.Controllers
         }
         public PartialViewResult SocialMediaAbout()
         {
-            
-            return PartialView();
+            var values = bm.GetList();
+            return PartialView(values);
         }
     }
 }

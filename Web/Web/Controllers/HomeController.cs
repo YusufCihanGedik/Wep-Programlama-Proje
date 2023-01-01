@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BusinessLayer.Concrete;
+using DataAccessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using Web.Models;
 
@@ -6,6 +9,9 @@ namespace Web.Controllers
 {
     public class HomeController : Controller
     {
+        WriterManager bm = new WriterManager(new EfWriterRepository());
+        CategoryManager cm = new CategoryManager(new EfCategoryRepository());
+        Context c = new Context();
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -15,7 +21,10 @@ namespace Web.Controllers
 
         public IActionResult Index()
         {
-            return View();
+
+            var values = bm.GetList();
+            return View(values);
+            
         }
 
         public IActionResult Privacy()

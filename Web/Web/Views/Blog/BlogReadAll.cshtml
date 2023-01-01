@@ -1,17 +1,8 @@
-﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+﻿@model IEnumerable<EntityLayer.Concrete.Blog> 
 @{
 	ViewData["Title"] = "BlogDetails";
 	Layout = "~/Views/Shared/KullaniciLayout.cshtml";
 }
-
-
-
-<!--
- // WEBSITE: https://themefisher.com
- // TWITTER: https://twitter.com/themefisher
- // FACEBOOK: https://www.facebook.com/themefisher
- // GITHUB: https://github.com/themefisher/
--->
 
 <html>
 
@@ -31,24 +22,17 @@
 								</div>
 								<h2 class="mt-1 mb-4 has-text-centered"><a href="blog-single.html">@item.BlogTitle</a></h2>
 								<div class="blog-item-meta has-text-centered mb-5">
-									<span class="is-uppercase text-sm mr-3 letter-spacing">by themefisher</span>
+									<span class="is-uppercase text-sm mr-3 letter-spacing"></span>
 										<span class="is-uppercase text-sm letter-spacing"><i class="ti-time mr-1"></i>  @(((DateTime)item.BlogCreateDate).ToString("dd-MMM-yyyy"))</span>
 								</div>
-								<img src="~/enov-bulma-main/source/images/blog/2.jpg" alt="" class=" rounded">
-								<p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.</p>
-								<h3 class="quote">A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.</h3>
-								<p class="h4 mb-4 has-text-weight-normal text-black">The same is true as we experience the emotional sensation of stress from our first instances of social rejection ridicule. We quickly learn to fear and automatically.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos animi laborum iusto expedita sapiente.</p>
+								
+								<img src="@item.BlogImage" alt="" class=" rounded">
+								<p class="mt-4">@item.BlogContent</p>
+								
 							</div>
 						</div>
 						}
-						<div class="column is-12 mb-3 has-text-centered">
-							<ul class="list-inline tag-option">
-								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" rel="tag">Advancher</a></li>
-								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" rel="tag">Landscape</a></li>
-								<li class="list-inline-item"><a href="#" rel="tag">Travel</a></li>
-							</ul>
-						</div>
+						
 						<div class="column is-12 mb-5 has-text-centered">
 							<ul class="list-inline share">
 								<li class="list-inline-item mb-2 mb-lg-0"><a href="#" target="_blank" class="fb"><i class="fab fa-facebook-f mr-2" aria-hidden="true"></i>Facebook</a></li>
@@ -57,27 +41,7 @@
 								<li class="list-inline-item"><a href="#" target="_blank" class="link"><i class="fab fa-linkedin mr-2" aria-hidden="true"></i>Linkedin</a></li>
 							</ul>
 						</div>
-						<div class="column is-12 mb-5">
-							<div class="posts-nav bg-gray is-justify-content-space-between">
-								<a class="post-prev is-align-items-center" href="#">
-									<div class="posts-prev-item">
-										<p class="is-uppercase letter-spacing text-sm mb-0">Previous Post</p>
-										<h5>
-											Donec consectetuer ligula
-										</h5>
-									</div>
-								</a>
-								<div class="border"></div>
-								<a class="posts-next" href="#">
-									<div class="posts-next-item">
-										<p class="has-text-right-desktop is-block is-uppercase letter-spacing text-sm mb-0">Next Post</p>
-										<h5>
-											Ut aliquam sollicitudin leo
-										</h5>
-									</div>
-								</a>
-							</div>
-						</div>
+						
 						
 						@await Component.InvokeAsync("CommentListByBlog",new{id= ViewBag.i})
 						@*await Html.PartialAsync("~/Views/Comment/CommentByBlog.cshtml")*@
@@ -91,8 +55,8 @@
 							<a href="#" class="btn btn-main is-block has-text-centered mt-2">search</a>
 						</div>
 						<div class="sidebar-widget mb-6 has-text-centered">
-							<img src="~/enov-bulma-main/source/images/blog/abou-us.png" alt="" class=" mx-auto">
-							<h4 class="mb-2 mt-4">Arther Conal</h4>
+							<img src="" alt="" class=" mx-auto">
+							
 							<ul class="list-inline author-socials mb-3">
 								<li class="list-inline-item mr-4">
 									<a href="#"><i class="fab fa-facebook-f text-muted"></i></a>
@@ -110,7 +74,7 @@
 									<a href="#"><i class="fab fa-behance text-muted"></i></a>
 								</li>
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolore.</p>
+							
 						</div>
 						@await Component.InvokeAsync("WriterLastBlog")
 						@await Component.InvokeAsync("CategoryList")

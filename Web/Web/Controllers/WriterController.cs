@@ -79,27 +79,20 @@ namespace Web.Controllers
             }
             return View();
         }
-        [AllowAnonymous]
+       
         [HttpGet]
         public IActionResult WriterAdd()
         {
            
             return View();
         }
-        [AllowAnonymous]
+       
         [HttpPost]
         public IActionResult WriterAdd(AddProfileImage p)
         {
             Writer w = new Writer();
-            if(p.WriterImage != null)
-            {
-                var extension = Path.GetExtension(p.WriterImage.FileName);
-                var newimagename = Guid.NewGuid() + extension;
-                var location = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/WriterImagesFiles/", newimagename);
-                var stream = new FileStream(location, FileMode.Create);
-                p.WriterImage.CopyTo(stream);
-                w.WriterImage = newimagename;
-            }
+           
+            w.WriterImage = p.WriterImage;
             w.WriterMail = p.WriterMail;
             w.WriterName = p.WriterName;
             w.WriterPassword = p.WriterPassword;
